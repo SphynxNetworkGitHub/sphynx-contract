@@ -1,1 +1,1 @@
-# sphynx-contract-contracts-sphynx.sol
+# sphynx-contract 
